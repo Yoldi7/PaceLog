@@ -1,13 +1,4 @@
 {
-  "hosting": {
-   "site": "pacelog",
-   "public": "public",
-   "ignore": [
-     "firebase.json",
-     "**/.*",
-     "**/node_modules/**"
-   ]},
- 
   "firestore": {
     "database": "(default)",
     "location": "europe-southwest1",
